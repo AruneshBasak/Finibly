@@ -1,0 +1,2 @@
+# Finibly
+Finance AI
